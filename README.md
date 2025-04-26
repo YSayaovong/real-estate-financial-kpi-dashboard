@@ -2,6 +2,8 @@
 
 📊 **A Power BI + PostgreSQL dashboard for long-term rental performance analysis**
 
+Walkthru of project:https://youtu.be/Tj4k1GtpL7Y
+
 ---
 
 ## 🔍 Overview
