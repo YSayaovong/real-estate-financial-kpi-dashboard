@@ -16,17 +16,26 @@ This interactive dashboard tracks 15+ years of financial data for a single-famil
 
 ## 💡 Key Features
 
-- **KPI Cards**:
-  - Total Rental Income
-  - Total Expenses
-  - Net Operating Income (NOI)
-  - Late Payments
+- **KPI Cards**  
+  ![Total Rental Income](Screenshots/Total%20Rental%20Income.PNG)  
+  ![Total Expenses](Screenshots/Total%20Expenses.PNG)  
+  ![Net Operating Income](Screenshots/Net%20Operating%20Income.PNG)  
+  ![Late Payments](Screenshots/Late%20Payments.PNG)
 
-- **Visuals**:
-  - 📈 Monthly Income & NOI (Line Chart)
-  - 🍩 Rent Collected by Tenant (Donut)
-  - 🧾 Top Expense Categories (Donut)
-  - 🎛 Year and Category Slicers (Optional, Hidden)
+- **Visuals**
+  - 📈 Monthly Income & NOI (Line Chart)  
+    ![Monthly NOI](Screenshots/Monthly%20NOI.PNG)  
+    ![Monthly Rental Income](Screenshots/Monthly%20Rental%20Income.PNG)
+  - 🍩 Rent Collected by Tenant  
+    ![Rent Collected by Tenant](Screenshots/Rent%20Collected%20per%20Tenant.PNG)
+  - 🧾 Top Expense Categories  
+    ![Top 3 Expense Categories](Screenshots/Top%203%20Expense%20Categories.PNG)
+  - 📊 Additional Insights  
+    ![Average Rent per Tenant](Screenshots/Average%20Rent%20per%20Tenant.PNG)  
+    ![Invoices Paid On Time](Screenshots/Invoices%20Paid%20On%20Time.PNG)  
+    ![Total Invoices vs Payments](Screenshots/Total%20Invoices%20vs%20Payments.PNG)  
+    ![Monthly Expenses](Screenshots/Monthly%20Expenses.PNG)  
+    ![Yearly Summary](Screenshots/Yearly%20Summary.PNG)
 
 ---
 
@@ -52,9 +61,10 @@ This interactive dashboard tracks 15+ years of financial data for a single-famil
 
 ## 📁 Files Included
 
-- `Rental_Property_Financial_Dashboard.pbix` – Power BI file
-- `rental_financial_analytics_schema.sql` – Create & populate tables
+- `Dashboard/Rental_Property_Financial_Dashboard.pbix` – Power BI file
+- `SQL/rental_financial_analytics_schema.sql` – Create & populate tables
 - `README.md` – Project overview and instructions
+- `Screenshots/` – Full output preview images
 
 ---
 
@@ -70,11 +80,10 @@ This interactive dashboard tracks 15+ years of financial data for a single-famil
 
 ## 📈 Sample Output
 
-![dashboard-screenshot](link-to-your-image-on-github)
+![Main Dashboard Preview](Screenshots/Rental_Property_Financial_Dashboard.PNG)
 
 ---
 
 ## 📎 License
 
 MIT License — feel free to adapt and build for your own portfolio.
-
