@@ -1,4 +1,4 @@
-# Rental Property Financial Dashboard
+# Real Estate Financial Analytics Tool
 
 📊 **A Power BI + PostgreSQL dashboard for long-term rental performance analysis**
 
